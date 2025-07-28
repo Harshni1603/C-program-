@@ -1,0 +1,38 @@
+1. Hello World
+→ Hello,World!
+
+2. Sum of Two Numbers 
+→ Enter two numbers: 5 7
+→ Sum = 12
+
+3. Even or Odd
+→ Enter an integer: 6
+→ 6 is Even
+
+4. Factorial of a Number
+→ Enter a number: 5
+→ Factorial = 120
+
+5.Palindrome Check 
+→ Enter an integer: 121
+→ 121 is a palindrome.
+
+6. Fibonacci Series
+→ Enter the number of terms: 6 
+→ Fibonacci Series: 0 1 1 2 3 5
+
+7. Swap Two Numbers
+→ Enter two integers: 4 9 
+→ After swapping: a = 9, b = 4
+
+8. Check Prime Number
+→ Enter a positive integer: 7 
+→ 7 is a prime number.
+
+9. Reverse a Number
+→ Enter an integer: 1234
+→ Reversed Number = 4321
+
+10. Largest of Three Numbers
+→ Enter three numbers: 10 25 15  
+→ Largest number = 25
